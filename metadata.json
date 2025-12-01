@@ -1,0 +1,5 @@
+{
+  "name": "SnarsCut AI Studio",
+  "description": "A high-performance aesthetic background remover and editor powered by AI. Features smart background removal and custom compositing.",
+  "requestFramePermissions": []
+}
